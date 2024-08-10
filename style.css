@@ -387,6 +387,9 @@ footer{
     .skills-section{
         grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
     }
+    .about-pic{
+        height: 300px;
+    }
 }
 @media screen and (max-width: 600px) {
     
